@@ -1,6 +1,0 @@
-{
-  "name": "Holistic Dental Care",
-  "description": "Thoughtful, wellness-inspired dental practice in Kudasan, Gandhinagar. Check-ups, whitening, bonding, implants, and gentle restorative oral health care.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
